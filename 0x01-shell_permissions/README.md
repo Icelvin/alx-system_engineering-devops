@@ -1,0 +1,2 @@
+#readme on shell permissions
+
